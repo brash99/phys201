@@ -1,20 +1,50 @@
-# Physics 201 - General Physics
+# PHYS 201 - General Physics I
 
-Text: 	
+## Fall 2026
 
-OpenStax University Physics – Volume I – http://www.openstax.org	
+This repository contains student-facing course materials for PHYS 201. It will
+be updated as the semester progresses.
 
-This textbook is freely available online, and there is a print version available on Amazon that is quite reasonably priced.  There is also an OpenStax app for your phone or tablet that I highly recommend.  The homework problems will be from this book as well.  
+## Course materials
 
-Course Learning Objectives: 
+- [Course syllabus](Documents/syllabus_phys201_fall2026.pdf)
+- [Handwritten lecture notes](LectureNotes/)
+- [Jupyter notebooks and animations](JupyterNotebooks/)
 
-Upon completion of Physics 201, a student should be able to:
+The lecture notes are handwritten reference materials. They are organized by
+lecture number, but they are not a semester schedule. Topics may take more or
+less class time than anticipated, so use the materials assigned in class rather
+than assuming that a particular lecture number corresponds to a particular
+date.
 
-1) identify and apply appropriate models, laws and equations to physical problems involving forces and motion.
-2) differentiate between scalar and vector quantities.
-3) apply free body diagrams and unit vector notation to solve problems involving vectors
-in translational and rotational kinematics and dynamics.
-4) solve problems in mechanics using conserved quantities.
+The Jupyter notebooks provide interactive examples and visualizations for
+selected mechanics topics. Run each notebook from the first cell to the last so
+that definitions and calculations are evaluated in the intended order.
 
-Physics Topics: 
-Units, conversion, and problem solving.  Kinematics (position, velocity, acceleration).  Circular motion.  Forces and Newton’s laws.  Work, kinetic energy, and potential energy.   Linear momentum and collisions.  Rotational kinematics and dynamics.  
+## Textbook
+
+The course uses [OpenStax University Physics, Volume
+1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction). The textbook
+is available online at no cost. Print and mobile-app versions are also
+available. Homework problems will be drawn from this book.
+
+## Course learning objectives
+
+Upon completion of PHYS 201, a student should be able to:
+
+1. Identify and apply appropriate models, laws, and equations to physical
+   problems involving forces and motion.
+2. Differentiate between scalar and vector quantities.
+3. Apply free-body diagrams and unit-vector notation to solve problems
+   involving vectors in translational and rotational kinematics and dynamics.
+4. Solve mechanics problems using conserved quantities.
+
+## Topics
+
+- Units, conversions, and problem solving
+- Translational kinematics: position, velocity, and acceleration
+- Circular motion
+- Forces and Newton's laws
+- Work, kinetic energy, and potential energy
+- Linear momentum and collisions
+- Rotational kinematics and dynamics
